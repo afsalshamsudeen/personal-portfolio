@@ -116,7 +116,7 @@ http://localhost:5173
 >TODO.
 
 
-![Landing](./assets/preview.png)
+![Landing](./src/assets/preview.png)
 
 
 ---
